@@ -1,0 +1,23 @@
+.dashboard {
+    &__container {
+        width: 100vw;
+        height: 100vh;
+        background-color: lightseagreen;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    &__header {
+        color: black;
+        margin: 0;
+        font-size: 48px;
+    }
+
+    &__logout {
+        margin-top: 12px;
+        padding: 18px;
+        font-size: 24px;
+    }
+}

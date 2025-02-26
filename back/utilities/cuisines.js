@@ -1,0 +1,15 @@
+module.exports = [
+    "Mexican",
+    "Spanish",
+    "Indian",
+    "American",
+    "Turkish",
+    "Polish",
+    "Asian",
+    "Sushi",
+    "Chicken",
+    "Tex-Mex",
+    "Kebab",
+    "Italian",
+    "Pizza",
+];

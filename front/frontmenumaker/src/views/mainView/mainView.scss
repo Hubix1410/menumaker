@@ -1,0 +1,17 @@
+.main {
+    &__container {
+        width: 100vw;
+        height: 100vh;
+        background-color: lightgreen;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    &__header {
+        color: black;
+        margin: 0;
+        font-size: 48px;
+        font-family: sans-serif;
+    }
+}
